@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Média Fácil**
 
-- 🌱 I’m currently learning **new languages and methods of developing projects **
+- 🌱 I’m currently learning **new languages and methods of developing projects**
 
 - 👯 I’m looking to collaborate on **Another projects**
 
