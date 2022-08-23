@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/_nathandantas" target="blank"><img src="https://img.shields.io/twitter/follow/_nathandantas?logo=twitter&style=for-the-badge" alt="_nathandantas" /></a> </p>
 
-- 🔭 I’m currently working on **Média Fácil**
+- 🔭 I’m currently working on **Mercedes-Benz**
 
 - 🌱 I’m currently learning **new languages and methods of developing projects**
 
